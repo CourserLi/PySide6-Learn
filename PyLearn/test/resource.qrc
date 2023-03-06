@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="新前缀">
+    <file>images/minus.png</file>
+    <file>images/plus.png</file>
+  </qresource>
+</RCC>
